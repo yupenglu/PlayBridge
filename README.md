@@ -1,4 +1,4 @@
 PlayBridge
 ==========
 
-CIT-HW04
+Play a hand of bridge.
